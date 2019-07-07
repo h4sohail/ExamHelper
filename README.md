@@ -1,7 +1,7 @@
 # ExamHelper
 In progress
 
-Compres two files of student information and displays the students found in both files.
+Compares two files containing student information and displays the students found in both files.
 
 # How to build
 1) Download: https://github.com/h4sohail/ExamHelper/archive/master.zip
