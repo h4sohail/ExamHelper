@@ -1,4 +1,4 @@
-# ExamHelper
+# Exam Helper
 Compares two files containing student information and displays the students found in both files.
 
 # How to build
